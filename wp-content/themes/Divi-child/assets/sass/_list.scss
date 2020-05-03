@@ -1,0 +1,194 @@
+.lr_gifts_accordion {
+  box-shadow: 0 16px 24px 2px rgba(0, 0, 0, .14), 0 6px 30px 5px rgba(0, 0, 0, .12), 0 8px 10px -5px rgba(0, 0, 0, .2);
+  padding: 39px 20px;
+  margin-bottom: 20px;
+}
+
+.gift_proority {
+  margin-bottom: 15px;
+}
+
+#datatables tr td {
+  padding: 10px 8px;
+}
+
+#datatables tr td a:not(.edit) {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+i.gift-delete {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 25px;
+}
+
+td.icons-actions-list i {
+  font-size: 20px;
+  padding: 0 5px;
+}
+
+.tooltip-inner {
+  background-color: #708184;
+}
+
+.list i.fas.fa-info {
+  margin-left: 9px;
+  color: black;
+}
+
+.card-wizard #about .input-group {
+  height: auto;
+  padding-top: 0;
+
+  .form-group {
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+    .form-control {
+      width: 90%;
+      float: left;
+      height: auto;
+    }
+
+    i {
+      float: left;
+      padding-left: 20px;
+      font-size: 20px;
+    }
+
+    div.dropdown-menu ul.dropdown-menu li.selected a span.text {
+      position: relative;
+    }
+
+    div.dropdown-menu ul.dropdown-menu li.selected a span.text:after {
+      content: '';
+      display: block;
+      width: 0.5em;
+      height: 1em;
+      border-style: solid;
+      border-width: 0 0.26em 0.26em 0;
+      -webkit-transform: rotate(45deg);
+      -ms-transform: rotate(45deg);
+      -o-transform: rotate(45deg);
+      transform: rotate(45deg);
+      position: absolute;
+      top: 0px;
+      right: -20px;
+      color: $color__principal;
+    }
+  }
+
+}
+
+.lr-radio-wrapper.form-control {
+  background-image: none;
+}
+
+.form-control-lg.contacts.hide {
+  display: none;
+}
+
+.gift_link_wrapper {
+  position: relative;
+
+  .add-link-gift, .delete-link-gift {
+    position: absolute;
+    right: 5px;
+    top: 8px;
+  }
+}
+
+
+
+.lists-wrapper {
+  .card-header {
+    background: #00bcd442;
+    h5 {
+      padding-bottom: 0;
+      width: 70%;
+      display: inline-block;
+      button {
+        text-align: left;
+        padding: 0;
+        font-size: 14px;
+      }
+    }
+    .list_date_close, .gift_buy {
+      float: right;
+      text-align: right;
+      font-size: 13px;
+      label {
+        font-weight: bold;
+        vertical-align: top;
+        padding-left: 2px;
+      }
+    }
+    .list_description {
+      font-size: 12px;
+    }
+    i {
+      color: #aaaaab;
+      padding-left: 4px;
+    }
+  }
+
+  iframe {
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+  }
+
+}
+
+.list_gift_wrapper.priority-must .card-header, .gifts-legend .must {
+  background: #29c32961;
+}
+
+.list_gift_wrapper.priority-want .card-header, .gifts-legend .want {
+  background: #de900280;
+}
+
+.list_gift_wrapper.buyed .card-header , .gifts-legend .buyed, .list-status-private .list_gift_wrapper .card-header, .list-status-private .card-header {
+  background: #949a9461;
+}
+
+.list-status-private .list_gift_wrapper .card-header input {
+  pointer-events: none;
+}
+
+.gifts-legend div {
+  display: inline-block;
+}
+
+.gifts-legend div.gift-legend-bc {
+  height: 15px;
+  width: 15px;
+  display: inline-block;
+  margin-right: 3px;
+  margin-left: 10px;
+}
+
+.gifts-legend span {
+  vertical-align: text-bottom;
+  font-size: 13px;
+}
+
+#gifts.list_see_buyed_false {
+  .lr_gifts_accordion.gift_existing {
+    pointer-events: none;
+  }
+  .gift_buyed {
+    display: none;
+  }
+}
+
+#gifts.list_see_buyed_true {
+  .gift_buyed_buyed, .gift_buyed_buyed input {
+    background: #dcdcdc;
+    pointer-events: none;
+  }
+}

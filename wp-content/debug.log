@@ -1,0 +1,54 @@
+[30-Apr-2020 21:37:06 UTC] PHP Notice:  Undefined variable: list_id in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\page-new-list.php on line 35
+[30-Apr-2020 21:37:26 UTC] PHP Notice:  Undefined index: created_date in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\lists.php on line 72
+[30-Apr-2020 21:37:26 UTC] PHP Notice:  Undefined index: gifts in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\lists.php on line 72
+[30-Apr-2020 21:37:26 UTC] PHP Notice:  Undefined index: status in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\lists.php on line 72
+[01-May-2020 11:37:32 UTC] PHP Notice:  Undefined index: post_mime_type in C:\xampp\htdocs\lista_regalos\wp-content\plugins\nextend-facebook-connect\includes\avatar.php on line 71
+[01-May-2020 11:37:33 UTC] PHP Notice:  Undefined index: post_mime_type in C:\xampp\htdocs\lista_regalos\wp-content\plugins\nextend-facebook-connect\includes\avatar.php on line 71
+[03-May-2020 09:22:29 UTC] PHP Notice:  Undefined index: post_mime_type in C:\xampp\htdocs\lista_regalos\wp-content\plugins\nextend-facebook-connect\includes\avatar.php on line 71
+[03-May-2020 09:22:30 UTC] PHP Notice:  Undefined index: post_mime_type in C:\xampp\htdocs\lista_regalos\wp-content\plugins\nextend-facebook-connect\includes\avatar.php on line 71
+[03-May-2020 09:33:12 UTC] PHP Notice:  Undefined index: post_mime_type in C:\xampp\htdocs\lista_regalos\wp-content\plugins\nextend-facebook-connect\includes\avatar.php on line 71
+[03-May-2020 09:33:13 UTC] PHP Notice:  Undefined index: post_mime_type in C:\xampp\htdocs\lista_regalos\wp-content\plugins\nextend-facebook-connect\includes\avatar.php on line 71
+[03-May-2020 11:51:46 UTC] PHP Notice:  Undefined variable: list_id in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\page-new-list.php on line 35
+[03-May-2020 11:52:03 UTC] PHP Notice:  Undefined variable: list_id in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\page-new-list.php on line 34
+[03-May-2020 12:51:11 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 12:51:11 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 12:51:11 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 12:51:11 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 12:51:11 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 12:51:11 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 12:51:11 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:14:30 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:14:30 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:14:30 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:14:30 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:14:30 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:14:30 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:14:30 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:01 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:01 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:01 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:01 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:01 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:01 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:01 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:22 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:22 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:22 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:22 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:22 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:22 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:22 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:32 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:32 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:32 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:32 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:32 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:32 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:32 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:52 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:52 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:52 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:52 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:52 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:52 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94
+[03-May-2020 13:15:52 UTC] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lista_regalos\wp-content\themes\Divi-child\inc\classes\shoppings.php on line 94

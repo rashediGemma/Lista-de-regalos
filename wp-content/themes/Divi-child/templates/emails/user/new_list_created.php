@@ -1,0 +1,1 @@
+<?=__('Tu lista se ha creado correctamente.<br/>Si aún no has añadido regalos, inicia sesión para poder empezar a añadirlos a tu lista.<br/><br/>¡No olvides de decirle a tus amigos que tienes una nueva lista!', 'lr');?>

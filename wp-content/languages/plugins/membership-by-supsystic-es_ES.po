@@ -1,0 +1,33 @@
+# Translation of Plugins - Membership by Supsystic - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Membership by Supsystic - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-10-27 15:14:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Membership by Supsystic - Development (trunk)\n"
+
+#: src/Membership/Membership/Model/MenuEditItemCustomFields.php:10
+msgid "Membership Menu Settings"
+msgstr "Ajustes del menú de membresía"
+
+#. Author of the plugin
+msgid "supsystic.com"
+msgstr "supsystic.com"
+
+#. Author URI of the plugin
+msgid "https://supsystic.com"
+msgstr "https://supsystic.com"
+
+#. Description of the plugin
+msgid "Create online membership community with custom user profiles, roles, front end registration / login. Members Directory, Activity, Groups and more"
+msgstr "Crea una comunidad de membresías online con perfiles de usuario, roles, registro y acceso en el front end personalizados. Directorio de miembros, Actividad, Grupos y más"
+
+#. Plugin Name of the plugin
+#: app/Membership.php:32 app/Membership.php:33
+msgid "Membership by Supsystic"
+msgstr "Membership by Supsystic"

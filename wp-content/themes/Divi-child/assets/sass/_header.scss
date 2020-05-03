@@ -1,0 +1,85 @@
+.lr-main-header {
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.05);
+}
+
+nav.navbar i {
+  font-size: 25px;
+  padding: 0 5px;
+}
+
+.user-info .nav li a.dropdown-item {
+  width: auto;
+}
+
+.navbar .navbar-brand {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.main-panel>.content {
+  min-height: calc(100vh - 165px);
+}
+
+.icons-top-wrapper {
+  ul.navbar-nav {
+    margin-right: 25px;
+  }
+  .lr-help-icons__link {
+    position: relative;
+
+    i {
+      font-size: 27px;
+    }
+
+    .notifications-number {
+      position: absolute;
+      right: -4px;
+      top: -10px;
+
+      span {
+        border-radius: 10px;
+        padding: 1px 3px;
+        background: #00bcd4;
+        color: white;
+        font-size: 9px;
+      }
+    }
+  }
+
+}
+
+.lr-user-notifications-wrapper {
+  display: none;
+  position: absolute;
+  width: 100%;
+  max-width: 350px;
+  max-height: 600px;
+  overflow-y: auto;
+  right: 14px;
+  top: 100%;
+  background-color: #fafafa;
+  box-shadow: 5px 10px 10px rgba(0,0,0,0.2);
+  text-align: left;
+  padding: 20px;
+
+  .lr-user-notification-item {
+    border-bottom: 1px solid $color__principal;
+    padding: 10px;
+    font-size: 12px;
+    cursor: pointer;
+  }
+
+  .lr-user-notification-item:hover {
+    background: #00bcd41f;
+  }
+
+  a {
+    color: inherit;
+  }
+
+}
+
+.lr-help-icons__link {
+
+
+}

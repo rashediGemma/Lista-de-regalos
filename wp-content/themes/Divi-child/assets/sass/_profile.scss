@@ -1,0 +1,18 @@
+.page-my-profile {
+  .card-header-icon  {
+
+    small {
+      font-size: 80% !important;
+    }
+    .card-icon {
+      background: $color__principal;
+
+      i {
+        color: white;
+        font-size: 20px;
+      }
+    }
+
+  }
+
+}
